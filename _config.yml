@@ -1,4 +1,4 @@
-title: "Blog Title"
+title: "P3p3mans bitacora"
 author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:p3p3mans@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/p3p3mans"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
